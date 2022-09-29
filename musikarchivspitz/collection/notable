@@ -1,0 +1,54 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/notable",
+  "@type":"sc:Collection",
+  "label":"Selected notable works",
+  "description":"9 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_B04/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (B-4): Tantum ergo in C major (Allegri, Gregorio)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_W03/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (W-3): Alma redemptoris mater in F major (Wandl, Johann)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A44/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-44): Passions (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H32/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-32): Cantate Domino canticum novum in D major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H52/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-52): Inveni David in C major (Albrechtsberger, Johann Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H60/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-60): Ut tibi dulces fuerunt lapides in G major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H72/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-72): Regina caeli in C major (Krottendorfer, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M5/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-5): Masses in A♭ major (Méhul, Etienne-Nicolas)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S55/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-55): Tantum ergo in C major (Spoth, Joseph senior)"
+    }
+  ]
+}

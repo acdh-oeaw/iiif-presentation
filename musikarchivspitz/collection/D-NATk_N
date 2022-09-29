@@ -1,0 +1,69 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/D-NATk_N",
+  "@type":"sc:Collection",
+  "label":"NA/SP: N",
+  "description":"24 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_N1/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (N-1): Litanies in F major (Namieyski, Jan)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_N2/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (N-2): Universi qui te exspectant in E major (Nanke, Alois)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_N3/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (N-3): Veritas mea in C major (Nasolini, Sebastiano)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_N4/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (N-4): Requiems in E♭ major (Mašek, Vincenc)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_N5/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (N-5): Quis et Deus cuncta videt in E♭ major (Neubauer, František Kryštof)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_N6/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (N-6): Die Grablegung Christi (Neukomm, Sigismund Ritter von)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_N7/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (N-7): Masses in D major (Nick, Winand)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_N8/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (N-8): Masses in E♭ major (Nick, Winand)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_N9/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (N-9): Tantum ergo in A major (Nikl, Karl)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_N10/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (N-10): Masses in A major (Novotný, Franz Nikolaus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_N11/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (N-11): Litanies in G major (Nussbaumer)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_N12/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (N-12): Requiems in E♭ major (Nussbaumer)"
+    }
+  ]
+}

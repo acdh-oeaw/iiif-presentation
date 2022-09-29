@@ -1,0 +1,103 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R13/manifest",
+  "@type":"sc:Manifest",
+  "label":"NA/SP (R-13): In Deo speravit in A major (Rotter, Ludwig)",
+  "metadata":[
+    {
+      "label":"Author",
+      "value":"Rotter, Ludwig (1810-1895)"
+    },
+    {
+      "label":"Title",
+      "value":"In Deo speravit"
+    },
+    {
+      "label":"Key",
+      "value":"A major"
+    },
+    {
+      "label":"Former owner",
+      "value":"Schütz, Mathäus (1819-1872)"
+    },
+    {
+      "label":"Note",
+      "value":"Es ist nur das Titelblatt vorhanden, die Besetzung wurde nach parallelen Quellen im RISM-OPAC erschlossen.."
+    },
+    {
+      "label":"Note",
+      "value":"Only title page"
+    }
+  ],
+  "description":"[title page:] Graduale in A. | In Deo speravit | für | Soprano, Alto, | Tenore, Basso | 2 Violinen | Viola | 2 Oboen | 2 Fagötte | Flöte | 2 Hörner | 2 Clarinen et Timpan | Cello, Bass &amp; Orgel | von | Ludwig Rotter. | [at right:] M. Schütz",
+  "attribution":"Austrian Academy of Sciences; Institute for History of Art and Musicology; Division of Musicology, AG Digital Musicology. Technical support and resources provided by <a href=\"https://acdh.oeaw.ac.at/\">ÖAW-ACDH</a>.",
+  "logo":{
+    "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/logo/oeaw-logo-short.jp2/full/full/0/default.jpg"
+  },
+  "related":{
+    "@id":"https://opac.rism.info/search?id=455040370",
+    "format":"text/html"
+  },
+  "sequences":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R13/sequence/normal",
+      "@type":"sc:Sequence",
+      "canvases":[
+        {
+          "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R13/canvas/p1",
+          "@type":"sc:Canvas",
+          "label":"1",
+          "height":4032,
+          "width":3180,
+          "images":[
+            {
+              "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R13/annotation/ano1",
+              "@type":"oa:Annotation",
+              "motivation":"sc:painting",
+              "resource":{
+                "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_R13/D-NATk_R13-002.jp2/full/full/0/default.jpg",
+                "@type":"dctypes:Image",
+                "format":"image/jpeg",
+                "service":{
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_R13/D-NATk_R13-002.jp2",
+                  "profile":"http://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "height":4032,
+                "width":3180
+              },
+              "on":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R13/canvas/p1"
+            }
+          ]
+        },
+        {
+          "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R13/canvas/p2",
+          "@type":"sc:Canvas",
+          "label":"2",
+          "height":3972,
+          "width":3216,
+          "images":[
+            {
+              "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R13/annotation/ano2",
+              "@type":"oa:Annotation",
+              "motivation":"sc:painting",
+              "resource":{
+                "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_R13/D-NATk_R13-003.jp2/full/full/0/default.jpg",
+                "@type":"dctypes:Image",
+                "format":"image/jpeg",
+                "service":{
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_R13/D-NATk_R13-003.jp2",
+                  "profile":"http://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "height":3972,
+                "width":3216
+              },
+              "on":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R13/canvas/p2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

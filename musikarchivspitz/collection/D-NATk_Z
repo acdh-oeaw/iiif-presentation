@@ -1,0 +1,29 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/D-NATk_Z",
+  "@type":"sc:Collection",
+  "label":"NA/SP: Z",
+  "description":"8 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_Z1/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (Z-1): Masses in D major (Zangl, Josef Gregor)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_Z2/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (Z-2): Ave regina in C major (Zechner, Johann Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_Z3/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (Z-3): Veni sancte spiritus in B♭ major (Zehetner, C. Josef)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_Z4/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (Z-4): Veni creator spiritus in B♭ major (Zehetner, C. Josef)"
+    }
+  ]
+}

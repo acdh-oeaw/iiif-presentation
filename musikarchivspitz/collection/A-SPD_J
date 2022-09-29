@@ -1,0 +1,14 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/A-SPD_J",
+  "@type":"sc:Collection",
+  "label":"SP: J",
+  "description":"2 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_J01/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (J-1): Paratum cor meum Deus in E major (Jansa, Leopold)"
+    }
+  ]
+}

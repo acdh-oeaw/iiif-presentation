@@ -1,0 +1,103 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A12/manifest",
+  "@type":"sc:Manifest",
+  "label":"SP (A-12): Maria Himmelskönigin in C major (Anonymus)",
+  "metadata":[
+    {
+      "label":"Author",
+      "value":"Anonymus"
+    },
+    {
+      "label":"Title",
+      "value":"Maria Himmelskönigin"
+    },
+    {
+      "label":"Key",
+      "value":"C major"
+    },
+    {
+      "label":"Performer",
+      "value":"Pittl, Karl (19/20)"
+    },
+    {
+      "label":"Note",
+      "value":"Das Notenpapier stammt von Josef Eberle mit dem Zeichen: \"J. E. &amp; Co. | Produktmarke Schutzmarke | No. 1 | 10 linig.\"."
+    },
+    {
+      "label":"Note",
+      "value":"Am Ende hat Pittl ein Aufführungsdatum aus dem Jahr 1930 mit der Herrenbesetzung notiert."
+    }
+  ],
+  "description":"[heading:] Maria Himmelskönigin",
+  "attribution":"Austrian Academy of Sciences; Institute for History of Art and Musicology; Division of Musicology, AG Digital Musicology. Technical support and resources provided by <a href=\"https://acdh.oeaw.ac.at/\">ÖAW-ACDH</a>.",
+  "logo":{
+    "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/logo/oeaw-logo-short.jp2/full/full/0/default.jpg"
+  },
+  "related":{
+    "@id":"https://opac.rism.info/search?id=1001001618",
+    "format":"text/html"
+  },
+  "sequences":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A12/sequence/normal",
+      "@type":"sc:Sequence",
+      "canvases":[
+        {
+          "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A12/canvas/p1",
+          "@type":"sc:Canvas",
+          "label":"1",
+          "height":4943,
+          "width":3790,
+          "images":[
+            {
+              "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A12/annotation/ano1",
+              "@type":"oa:Annotation",
+              "motivation":"sc:painting",
+              "resource":{
+                "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/A-SPD_A12/A-SPD_A12-001.jp2/full/full/0/default.jpg",
+                "@type":"dctypes:Image",
+                "format":"image/jpeg",
+                "service":{
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/A-SPD_A12/A-SPD_A12-001.jp2",
+                  "profile":"http://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "height":4943,
+                "width":3790
+              },
+              "on":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A12/canvas/p1"
+            }
+          ]
+        },
+        {
+          "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A12/canvas/p2",
+          "@type":"sc:Canvas",
+          "label":"2",
+          "height":4929,
+          "width":3779,
+          "images":[
+            {
+              "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A12/annotation/ano2",
+              "@type":"oa:Annotation",
+              "motivation":"sc:painting",
+              "resource":{
+                "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/A-SPD_A12/A-SPD_A12-002.jp2/full/full/0/default.jpg",
+                "@type":"dctypes:Image",
+                "format":"image/jpeg",
+                "service":{
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/A-SPD_A12/A-SPD_A12-002.jp2",
+                  "profile":"http://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "height":4929,
+                "width":3779
+              },
+              "on":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A12/canvas/p2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

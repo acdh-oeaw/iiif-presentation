@@ -1,0 +1,79 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/D-NATk_B",
+  "@type":"sc:Collection",
+  "label":"NA/SP: B",
+  "description":"28 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_B1/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (B-1): De profundis in F minor (Bauer, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_B2/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (B-2): Masses in C major (Beethoven, Ludwig van)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_B3/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (B-3): Litanies in F major (Binder)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_B4/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (B-4): Litanies in E♭ major (Binder)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_B5/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (B-5): Litanies in E♭ major (Binder)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_B6/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (B-6): Masses in D major (Binder)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_B7/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (B-7): Ave Maria in F major (Binder, Josef)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_B8/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (B-8): 2 Tantum ergo (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_B9/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (B-9): Tantum ergo in E♭ major (Binder, Johann Sebastian)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_B10/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (B-10): Litanies in D major (Brixi, František Xaver)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_B11/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (B-11): Salve regina in A major (Brixi, František Xaver)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_B12/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (B-12): 6 Marianische Antiphonen (Broër, Ernst)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_B13/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (B-13): Masses in E♭ major (Bühler, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_B14/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (B-14): Masses in E♭ major (Bühler, Franz)"
+    }
+  ]
+}

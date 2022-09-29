@@ -1,0 +1,59 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/A-SPD_P",
+  "@type":"sc:Collection",
+  "label":"SP: P",
+  "description":"20 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_P01/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (P-1): Litanies in C major (Paris, Anton Ferdinand)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_P02/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (P-2): Tantum ergo in D major (Pensch, Robert)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_P03/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (P-3): Ave Maria in E♭ major (Preindl, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_P04/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (P-4): Vias tuas Domine in C major (Preindl, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_P05/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (P-5): Domine convertere in G minor (Preindl, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_P06/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (P-6): Litanies in B♭ major (Preindl, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_P07/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (P-7): 4 Sacred songs (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_P08/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (P-8): Salve regina in F major (Preindl, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_P09/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (P-9): Ave maris stella in E major (Proch, Heinrich)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_P10/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (P-10): Hochzeitslied in D major (Pensch, Robert)"
+    }
+  ]
+}

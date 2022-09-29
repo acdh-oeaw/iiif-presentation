@@ -1,0 +1,139 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/D-NATk_P",
+  "@type":"sc:Collection",
+  "label":"NA/SP: P",
+  "description":"52 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P1/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-1): Masses in C major (Panny, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P2/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-2): Te Deum in C major (Pasterwiz, Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P3/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-3): 4 Tantum ergo (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P4/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-4): Tantum ergo in B♭ major (Pernsteiner, Matthias)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P5/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-5): Tantum ergo in C major (Pernsteiner, Matthias)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P6/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-6): Tantum ergo in D major (Pernsteiner, Matthias)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P7/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-7): Te Deum in C major (Petzina, Joseph Edmund)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P8/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-8): Masses in C major (Pfeiffer)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P9/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-9): Masses in C major (Pfeiffer, Franz Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P10/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-10): Masses in D major (Pfeiffer, Franz Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P11/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-11): Masses in C major (Schneider, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P12/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-12): Masses in B♭ major (Pfeiffer, Franz Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P13/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-13): 2 Offertories (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P14/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-14): Sit nomen Domini benedictum in G major (Pfeiffer, Franz Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P15/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-15): Requiems in E♭ major (Pfeiffer, Franz Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P16/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-16): Veni sancte spiritus in C major (Pfeiffer, Franz Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P17/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-17): Alma redemptoris mater in D major (Piccinni)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P18/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-18): Masses in C major (Pleyel, Ignace)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P19/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-19): Masses in G major (Pleyel, Ignace)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P20/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-20): 2 Offertories (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P21/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-21): Te Deum in C major (Pleyel, Ignace)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P22/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-22): Deus qui sedes in G major (Preindl, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P23/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-23): Masses in C major (Preindl, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P24/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-24): Masses in D major (Preindl, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P25/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-25): Te Deum in C major (Preindl, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_P26/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (P-26): Requiems in E♭ major (Burghartshofer)"
+    }
+  ]
+}

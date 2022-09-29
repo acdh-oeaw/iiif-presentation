@@ -1,0 +1,154 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/D-NATk_E",
+  "@type":"sc:Collection",
+  "label":"NA/SP: E",
+  "description":"58 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E1/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-1): Alma redemptoris mater in D major (Eder, Philipp)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E2/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-2): Alma redemptoris mater in C major (Eder, Philipp)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E3/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-3): Masses in G major (Eder, Philipp)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E4/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-4): Masses in C major (Eder, Philipp)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E5/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-5): Masses in B♭ major (Eder, Philipp)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E6/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-6): Salve regina in C major (Eder, Philipp)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E7/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-7): Masses in E♭ major (Engelmann)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E8/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-8): Tantum ergo in C major (Ernst, Johann Gottfried)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E9/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-9): Timete Dominum in E♭ major (Essinger)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E10/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-10): Justorum animae in E♭ major (Essinger)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E11/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-11): Requiems in E♭ major (Ett, Caspar)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E12/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-12): Alleluia in C major (Eybler, Joseph Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E13/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-13): Magnificate Dominum mecum in B♭ major (Eybler, Joseph Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E14/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-14): Cantate Domino et benedicite in C major (Eybler, Joseph Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E15/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-15): Masses in E♭ major (Eybler, Joseph Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E16/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-16): Masses in C major (Eybler, Joseph Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E17/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-17): Masses in C major (Eybler, Joseph Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E18/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-18): Masses in C major (Eybler, Joseph Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E19/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-19): Masses in B♭ major (Eybler, Joseph Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E20/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-20): Masses in C major (Eybler, Joseph Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E21/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-21): Masses in D major (Eybler, Joseph Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E22/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-22): Fremit mare cum furore in D minor (Eybler, Joseph Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E23/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-23): Levavi in montes oculos in G minor (Eybler, Joseph Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E24/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-24): Ad astra o mortales in D minor (Eybler, Joseph Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E25/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-25): Levavi oculos meos in E major (Eybler, Joseph Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E26/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-26): Regina caeli in D major (Eybler, Joseph Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E27/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-27): 2 Tantum ergo (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E28/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-28): Tantum ergo in F major (Eybler, Joseph Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_E29/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (E-29): Te Deum in B♭ major (Eybler, Joseph Leopold)"
+    }
+  ]
+}

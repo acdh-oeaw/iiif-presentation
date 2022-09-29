@@ -1,0 +1,89 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/A-SPD_A",
+  "@type":"sc:Collection",
+  "label":"SP: A",
+  "description":"32 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A01/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (A-1): Ave Maria in G major (Achleitner, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A02/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (A-2): Date sonoros hymnos in C major (Aumann, Franz Josef)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A03/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (A-3): Regina caeli in G major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A04/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (A-4): Requiems in E♭ major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A05/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (A-5): Litanies in B♭ major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A06/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (A-6): Litanies in B♭ major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A07/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (A-7): Masses (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A08/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (A-8): Hirten auf um Mitternacht (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A09/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (A-9): Vespers in G major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A10/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (A-10): Vidi aquam in C major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A11/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (A-11): Masses in C major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A12/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (A-12): Maria Himmelskönigin in C major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A13/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (A-13): Betracht o Mensch die Traurigkeit in A♭ major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A14/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (A-14): Des Königs Fahne weht hervor in D major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A15/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (A-15): Es glänzt kein Licht im Sternensaal in B♭ major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A16/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (A-16): 2 Graduals"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-6/manifest",
+  "@type":"sc:Manifest",
+  "label":"NA/SP (XVII-06): 2 Ave regina (Collection)",
+  "metadata":[
+    {
+      "label":"(1) Author",
+      "value":"Verified: Grueber, Benno (1759-1796)"
+    },
+    {
+      "label":"(1) Title",
+      "value":"Ave regina"
+    },
+    {
+      "label":"(1) Key",
+      "value":"D major"
+    },
+    {
+      "label":"(2) Author",
+      "value":"Verified: Grueber, Benno (1759-1796)"
+    },
+    {
+      "label":"(2) Title",
+      "value":"Ave regina"
+    },
+    {
+      "label":"(2) Key",
+      "value":"F major"
+    },
+    {
+      "label":"Note",
+      "value":"Unter der Signatur NA/SP (G-10) befinden sich die Ave regina Nr. 1 und 2 aus den \"XXIV Antiphonae marianae\" von Benno Gruber, Augsburg 1793 (²1806)."
+    }
+  ],
+  "description":"[at the beginning of both pieces, at left:] Ave regina",
+  "attribution":"Austrian Academy of Sciences; Institute for History of Art and Musicology; Division of Musicology, AG Digital Musicology. Technical support and resources provided by <a href=\"https://acdh.oeaw.ac.at/\">ÖAW-ACDH</a>.",
+  "logo":{
+    "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/logo/oeaw-logo-short.jp2/full/full/0/default.jpg"
+  },
+  "related":{
+    "@id":"https://opac.rism.info/search?id=455040544",
+    "format":"text/html"
+  },
+  "sequences":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-6/sequence/normal",
+      "@type":"sc:Sequence",
+      "canvases":[
+        {
+          "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-6/canvas/p1",
+          "@type":"sc:Canvas",
+          "label":"1",
+          "height":4068,
+          "width":2772,
+          "images":[
+            {
+              "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-6/annotation/ano1",
+              "@type":"oa:Annotation",
+              "motivation":"sc:painting",
+              "resource":{
+                "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_XVII-6/D-NATk_XVII-6-1.jp2/full/full/0/default.jpg",
+                "@type":"dctypes:Image",
+                "format":"image/jpeg",
+                "service":{
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_XVII-6/D-NATk_XVII-6-1",
+                  "profile":"http://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "height":4068,
+                "width":2772
+              },
+              "on":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-6/canvas/p1"
+            }
+          ]
+        },
+        {
+          "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-6/canvas/p2",
+          "@type":"sc:Canvas",
+          "label":"2",
+          "height":4092,
+          "width":2748,
+          "images":[
+            {
+              "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-6/annotation/ano2",
+              "@type":"oa:Annotation",
+              "motivation":"sc:painting",
+              "resource":{
+                "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_XVII-6/D-NATk_XVII-6-2.jp2/full/full/0/default.jpg",
+                "@type":"dctypes:Image",
+                "format":"image/jpeg",
+                "service":{
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_XVII-6/D-NATk_XVII-6-2",
+                  "profile":"http://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "height":4092,
+                "width":2748
+              },
+              "on":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-6/canvas/p2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

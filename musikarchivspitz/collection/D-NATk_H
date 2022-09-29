@@ -1,0 +1,564 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/D-NATk_H",
+  "@type":"sc:Collection",
+  "label":"NA/SP: H",
+  "description":"222 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H1/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-1): Masses in B♭ major (Habert, Johannes Evangelista)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H2/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-2): Masses in F major (Hamma, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H3/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-3): Si ventis et procella in C major (Ziegler)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H4/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-4): Die Schöpfung (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H5/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-5): Die Schöpfung (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H6/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-6): Die Schöpfung (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H7/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-7): 2 Graduals (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H8/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-8): Suscepimus Deus misericordiam in D major (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H9/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-9): Benedictus qui venit in B♭ major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H10/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-10): Masses in C major (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H11/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-11): Masses in B♭ major (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H12/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-12): Masses in G major (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H13/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-13): Masses in B♭ major (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H14/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-14): Masses in B♭ major (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H15/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-15): Masses in C major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H16/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-16): 3 Sacred songs (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H17/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-17): Masses in B♭ major (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H18/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-18): Masses in E♭ major (Stierer, Raimund)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H19/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-19): Masses in E♭ major (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H20/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-20): Masses in D major (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H21/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-21): Haec est dies quam fecit Dominus in D major (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H22/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-22): Veritas mea et misericordia mea in B♭ major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H23/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-23): Die Schöpfung (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H24/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-24): 2 Regina caeli (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H25/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-25): Requiems in E♭ major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H26/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-26): Requiems in E♭ major (Kraus, Lambert)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H27/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-27): Requiems in E♭ major (Rosetti, Antonio)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H28/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-28): Stabat mater in E♭ major (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H29/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-29): Te Deum in C major (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H30/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-30): Te Deum in C major (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H31/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-31): Alma redemptoris mater in E♭ major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H32/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-32): Cantate Domino canticum novum in D major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H33/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-33): Non me a te avertet amor in E♭ major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H34/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-34): 4 Ave regina (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H35/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-35): Ave regina in F major (Krottendorfer, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H36/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-36): Ave regina in B♭ major (Krottendorfer, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H37/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-37): Ave regina in E♭ major (Krottendorfer, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H38/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-38): Eia dulce prome melos in A major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H39/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-39): Veni sancte spiritus in E♭ major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H40/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-40): 2 Graduals (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H41/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-41): Alleluia in die resurrectionis in B♭ major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H42/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-42): Tollite portas in B♭ major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H43/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-43): Benedictus qui venit in B♭ major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H44/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-44): Il Cid in E♭ major (Sacchini, Antonio)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H45/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-45): Omnes de Saba in G major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H46/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-46): In Deo speravit in C major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H47/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-47): Tecum principium in die virtutis tuae in G major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H48/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-48): Sederunt principes in G major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H49/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-49): Benedicta et venerabilis in E♭ major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H50/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-50): Salvos fac nos in G minor (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H51/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-51): Timete Dominum in G major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H52/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-52): Inveni David in C major (Albrechtsberger, Johann Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H53/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-53): Litanies in C major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H54/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-54): Masses in C major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H55/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-55): Masses in C major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H56/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-56): Masses in C major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H57/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-57): Masses in D major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H58/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-58): Masses in G major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H59/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-59): Masses in C major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H60/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-60): Ut tibi dulces fuerunt lapides in G major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H61/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-61): Stabunt justi in E♭ major (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H62/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-62): Magne caeli numen respice in D major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H63/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-63): 2 Offertories (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H64/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-64): Constitues eos principes in A major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H65/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-65): 2 Offertories (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H66/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-66): Fons vivus et origo in C major (Vogel, Kajetán)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H67/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-67): Quicunque manducaverit in G minor (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H68/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-68): Regina caeli in C major (Grasl, Adam)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H69/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-69): Regina caeli in C major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H71/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-71): Regina caeli in C major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H72/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-72): Regina caeli in C major (Krottendorfer, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H73/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-73): Requiems in E♭ major (Vanhal, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H74/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-74): Requiems in C minor (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H75/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-75): Salve regina in C major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H76/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-76): Salve regina in D major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H77/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-77): Salve regina in B♭ major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H78/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-78): Salve regina in B♭ major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H79/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-79): Salve regina in B♭ major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H80/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-80): Salve regina in C major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H81/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-81): Salve regina in B♭ major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H82/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-82): Te Deum in C major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H83/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-83): Masses in C major (Heimerich, Martin)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H84/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-84): Litanies in C major (Hofmann, Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H85/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-85): 2 Litanies (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H86/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-86): Litanies in C major (Hofmann, Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H87/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-87): Vota preces geminate in C major (Hofmann, Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H88/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-88): Masses in B♭ major (Horák, Václav Emanuel)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H89/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-89): Haec dies quam fecit Dominus in C major (Huber, Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H90/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-90): Masses in F major (Huber, Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H91/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-91): Masses in B♭ major (Huber, Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H92/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-92): Benedicam Dominum in omni tempore in C major (Huber)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H93/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-93): Vos gentes universae in C major (Huber)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H94/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-94): Auctor clementiae in E♭ major (Zimmermann, Anton)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H95/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-95): Haec dies quam fecit Dominus in C major (Huber, Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H96/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-96): Paratum cor meum Deus in D major (Huber, Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H97/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-97): Litanies in C major (Huber, Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H98/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-98): Masses in C major (Huber, Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H99/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-99): Masses in B♭ major (Huber, Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H100/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-100): Masses in B♭ major (Huber, Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H101/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-101): Masses in F major (Huber, Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H102/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-102): Masses in B♭ major (Huber, Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H103/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-103): Ad te Deum meum in C minor (Huber, Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H104/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-104): Auctor clementiae in E♭ major (Zimmermann, Anton)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H105/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-105): Veritas mea in C major (Huber, Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H106/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-106): 2 Salve regina (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H107/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-107): Salve regina in C major (Huber, Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H108/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-108): 2 Tantum ergo (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H109/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-109): Tantum ergo in C major (Huber, Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H110/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-110): Veni sancte spiritus in C major (Huber, Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H111/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-111): Veni sancte spiritus in B♭ major (Hummel, Johann Nepomuk)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_H112/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (H-112): O Deus in te confido in A major (Hummel, Johann Nepomuk)"
+    }
+  ]
+}

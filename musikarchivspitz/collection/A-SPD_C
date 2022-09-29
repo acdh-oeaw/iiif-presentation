@@ -1,0 +1,44 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/A-SPD_C",
+  "@type":"sc:Collection",
+  "label":"SP: C",
+  "description":"14 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_C01/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (C-1): Ave Maria in F major (Cherubini, Luigi)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_C02/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (C-2): 17 Sacred songs (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_C03/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (C-3): 2 Alma redemptoris mater (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_C04/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (C-4): 2 Songs (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_C05/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (C-5): Domine salvum fac regem in D major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_C06/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (C-6): Verrichtungsbuch durch die ganzen Karwochen"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_C07/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (C-7): Eucharistische Gesänge"
+    }
+  ]
+}

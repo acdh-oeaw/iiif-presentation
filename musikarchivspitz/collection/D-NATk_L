@@ -1,0 +1,79 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/D-NATk_L",
+  "@type":"sc:Collection",
+  "label":"NA/SP: L",
+  "description":"28 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_L1/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (L-1): O quam suavis in E♭ major (Lasser, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_L2/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (L-2): Masses in E♭ major (Lasser, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_L3/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (L-3): Requiems in E♭ major (Laucher, Joseph Anton)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_L4/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (L-4): Requiems in C major (Laucher, Joseph Anton)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_L5/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (L-5): Requiems in E♭ major (Laucher, Joseph Anton)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_L6/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (L-6): Requiems in F major (Laucher, Joseph Anton)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_L7/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (L-7): Masses in C major (Lauer)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_L8/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (L-8): Requiems in E♭ major (Leitner, Josef)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_L9/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (L-9): Tantum ergo in C major (Leitner)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_L10/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (L-10): Litanies in B♭ major (Lickl, Johann Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_L11/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (L-11): Masses in E♭ major (Lickl, Johann Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_L12/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (L-12): Masses in C major (Lickl, Johann Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_L13/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (L-13): Requiems in E♭ major (Lauer)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_L14/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (L-14): Eia gentes convolate in D major (Luigi, Aloysius)"
+    }
+  ]
+}

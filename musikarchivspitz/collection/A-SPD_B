@@ -1,0 +1,29 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/A-SPD_B",
+  "@type":"sc:Collection",
+  "label":"SP: B",
+  "description":"8 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_B01/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (B-1): Litanies in C major (Binder, Josef)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_B02/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (B-2): Litanies in E♭ major (Binder, Josef)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_B03/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (B-3): Litanies in F major (Broër, Ernst)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_B04/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (B-4): Tantum ergo in C major (Allegri, Gregorio)"
+    }
+  ]
+}

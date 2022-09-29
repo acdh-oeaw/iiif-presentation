@@ -1,0 +1,99 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K2/manifest",
+  "@type":"sc:Manifest",
+  "label":"NA/SP (K-2): Litanies in C major (Kempter, Karl)",
+  "metadata":[
+    {
+      "label":"Author",
+      "value":"Kempter, Karl (1819-1871)"
+    },
+    {
+      "label":"Title",
+      "value":"Litanies"
+    },
+    {
+      "label":"Key",
+      "value":"C major"
+    },
+    {
+      "label":"Note",
+      "value":"Nur das stark beschädigte und zerrissene Titelblatt ist vorhanden"
+    },
+    {
+      "label":"Note",
+      "value":"Only title page"
+    }
+  ],
+  "description":"[title page:] Lytanei in C | für | Sopran, Alt, Tenor, Bass | 2 Violinen, Violon u. Orgel Viola | Violoncello, Flöte, 2 Clarinetten | 2 Hörner, 2 Trompeten u. Pauken | Posaun | [at left:] Auth: Carl Kempter | Domorganist",
+  "attribution":"Austrian Academy of Sciences; Institute for History of Art and Musicology; Division of Musicology, AG Digital Musicology. Technical support and resources provided by <a href=\"https://acdh.oeaw.ac.at/\">ÖAW-ACDH</a>.",
+  "logo":{
+    "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/logo/oeaw-logo-short.jp2/full/full/0/default.jpg"
+  },
+  "related":{
+    "@id":"https://opac.rism.info/search?id=455040223",
+    "format":"text/html"
+  },
+  "sequences":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K2/sequence/normal",
+      "@type":"sc:Sequence",
+      "canvases":[
+        {
+          "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K2/canvas/p1",
+          "@type":"sc:Canvas",
+          "label":"1",
+          "height":2539,
+          "width":3199,
+          "images":[
+            {
+              "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K2/annotation/ano1",
+              "@type":"oa:Annotation",
+              "motivation":"sc:painting",
+              "resource":{
+                "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_K2/D-NATk_K2-001.jp2/full/full/0/default.jpg",
+                "@type":"dctypes:Image",
+                "format":"image/jpeg",
+                "service":{
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_K2/D-NATk_K2-001.jp2",
+                  "profile":"http://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "height":2539,
+                "width":3199
+              },
+              "on":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K2/canvas/p1"
+            }
+          ]
+        },
+        {
+          "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K2/canvas/p2",
+          "@type":"sc:Canvas",
+          "label":"2",
+          "height":2528,
+          "width":3199,
+          "images":[
+            {
+              "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K2/annotation/ano2",
+              "@type":"oa:Annotation",
+              "motivation":"sc:painting",
+              "resource":{
+                "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_K2/D-NATk_K2-002.jp2/full/full/0/default.jpg",
+                "@type":"dctypes:Image",
+                "format":"image/jpeg",
+                "service":{
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_K2/D-NATk_K2-002.jp2",
+                  "profile":"http://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "height":2528,
+                "width":3199
+              },
+              "on":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K2/canvas/p2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/A-SPD_G",
+  "@type":"sc:Collection",
+  "label":"SP: G",
+  "description":"12 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_G01/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (G-1): Masses in B♭ major (Geppert, Liberatus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_G02/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (G-2): 5 Offertorien (Geppert, Liberatus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_G03/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (G-3): 2 Regina caeli (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_G04/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (G-4): Masses in C major (Gruber, Josef)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_G05/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (G-5): Missa pro defunctis in B♭ major (Gruber, Josef)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_G06/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (G-6): Te Deum in C major (Gruber, Josef)"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/D-NATk_F",
+  "@type":"sc:Collection",
+  "label":"NA/SP: F",
+  "description":"40 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_F1/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (F-1): Miserere in the Phrygian mode (Ferdinand III., römisch-deutscher Kaiser)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_F2/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (F-2): 2 Graduals (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_F3/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (F-3): Assumpta est Maria in C major (Fraundorfer, Josef)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_F4/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (F-4): Masses in E♭ major (Fraundorfer, Josef)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_F5/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (F-5): Masses in E♭ major (Fraundorfer, Josef)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_F6/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (F-6): Masses in B♭ major (Fraundorfer, Josef)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_F7/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (F-7): Iam sol recedit igneus in E♭ major (Friebert, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_F8/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (F-8): Salve regina in C major (Friebert, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_F9/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (F-9): Gloriosus Deus in G major (Führer, Robert)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_F10/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (F-10): Masses in C major (Führer, Robert)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_F11/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (F-11): Masses in C major (Führer, Robert)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_F12/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (F-12): Masses in A major (Führer, Robert)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_F13/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (F-13): Masses in G minor (Führer, Robert)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_F16/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (F-16): Masses in C major (Führer, Robert)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_F17/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (F-17): Masses in E♭ major (Führer, Robert)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_F18/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (F-18): Masses in B♭ major (Führer, Robert)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_F19/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (F-19): Christus im Leiden und im Tode (Führer, Robert)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_F20/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (F-20): Filio regnum in honore tuo in C major (Führer, Robert)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_F26/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (F-26): Requiems in D minor (Führer, Robert)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_F27/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (F-27): Requiems in E♭ major (Führer, Robert)"
+    }
+  ]
+}

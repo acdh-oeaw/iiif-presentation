@@ -1,0 +1,274 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/D-NATk_D",
+  "@type":"sc:Collection",
+  "label":"NA/SP: D",
+  "description":"106 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D1/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-1): Masses in C major (Diabelli, Anton)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D2/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-2): Masses in E♭ major (Diabelli, Anton)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D3/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-3): Masses in F major (Diabelli, Anton)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D4/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-4): Benedicam Dominum in omni tempore in A major (Diabelli, Anton)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D5/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-5): Ave Maria in G major (Diabelli, Anton)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D6/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-6): Jubilate Deo omnis terra in D major (Diabelli, Anton)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D7/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-7): Misericordias Domini in F major (Diabelli, Anton)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D8/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-8): Gaudeamus omnes in Domino in B♭ major (Diabelli, Anton)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D9/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-9): Masses in G major (Diabelli, Anton)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D10/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-10): In hac festiva die in C major (Dittersdorf, Carl Ditters von)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D11/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-11): Piae mentes omnes gentes in D major (Dittersdorf, Carl Ditters von)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D12/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-12): Non possum nec volo te in E♭ major (Dittersdorf, Carl Ditters von)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D13/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-13): Exsurge Domine in ira tua in D minor (Drechsler, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D14/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-14): Beata nobis gaudia in E♭ major (Drechsler, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D15/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-15): Litanies in D major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D16/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-16): Litanies in D major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D17/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-17): Litanies in F major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D18/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-18): Litanies in G minor (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D19/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-19): Masses in C major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D20/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-20): Masses in A major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D21/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-21): Masses in F major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D22/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-22): Masses in E♭ major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D23/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-23): Masses in D major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D24/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-24): Masses in B♭ major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D25/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-25): Masses in C major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D26/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-26): Masses in F major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D27/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-27): Masses in A major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D28/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-28): Masses in D major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D29/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-29): Salve regina in C major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D30/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-30): Alma redemptoris mater in C major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D31/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-31): 2 Offertories (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D32/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-32): O salutaris hostia in D major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D33/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-33): 12 Tantum ergo (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D34/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-34): Tantum ergo in G major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D35/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-35): Tantum ergo in D major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D36/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-36): Tantum ergo in F major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D37/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-37): Tantum ergo in C major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D38/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-38): Tantum ergo in the Mixolydian mode (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D39/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-39): Tantum ergo in C major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D40/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-40): Tantum ergo in E♭ major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D41/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-41): Tantum ergo in B♭ major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D42/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-42): Tantum ergo in A major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D43/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-43): Tantum ergo in A major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D44/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-44): Tantum ergo in G major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D45/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-45): Tantum ergo in A major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D46/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-46): 2 Sacred songs (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D47/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-47): Tantum ergo in D major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D48/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-48): Tantum ergo in D major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D49/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-49): Masses (Drobisch, Karl Ludwig)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D50/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-50): Masses in E♭ major (Drobisch, Karl Ludwig)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D53/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-53): Masses in E♭ major (Drobisch, Karl Ludwig)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D54/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-54): Masses in A major (Drobisch, Karl Ludwig)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_D57/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (D-57): Requiems in D minor (Drobisch, Karl Ludwig)"
+    }
+  ]
+}

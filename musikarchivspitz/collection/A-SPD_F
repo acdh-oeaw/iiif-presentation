@@ -1,0 +1,74 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/A-SPD_F",
+  "@type":"sc:Collection",
+  "label":"SP: F",
+  "description":"26 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_F01/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (F-1): 3 Litanies (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_F02/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (F-2): Litanies in D major (Führer, Robert)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_F03/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (F-3): Litanies in C major (Führer, Robert)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_F04/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (F-4): 3 Offertorium zum Sonntags-Gebrauche (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_F05/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (F-5): Laetentur omnes in B♭ major (Führer, Robert)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_F06/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (F-6): Requiems in G major (Führer, Robert)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_F07/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (F-7): Requiems in F major (Führer, Robert)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_F08/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (F-8): Requiems in E♭ major (Führer, Robert)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_F09/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (F-9): Requiems in B♭ major (Führer, Robert)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_F10/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (F-10): Masses in F major (Führer, Robert)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_F11/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (F-11): Minuets in D major (Führer, Robert)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_F12/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (F-12): 2 Sacred songs (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_F13/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (F-13): Terra tremuit in C minor (Filke, Max)"
+    }
+  ]
+}

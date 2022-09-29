@@ -1,0 +1,209 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/D-NATk_rom",
+  "@type":"sc:Collection",
+  "label":"NA/SP: roman numerals",
+  "description":"80 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_I/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (I): 2 Funeral music (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_II/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (II): Frieden in D major (Kloss, Karl Johann Christian)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_III/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (III): Friede deiner Asche hier in A major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_IV/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (IV): 2 Grablieder (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_V/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (V): 2 Grablieder (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_VI/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (VI): Miserere mei Deus in the Phrygian mode (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_VII/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (VII): Getrost in G minor (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_VIII/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (VIII): 14 Sacred songs (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_IX/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (IX): 11 Sacred songs (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_X/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (X): Grablied in E♭ major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XI/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XI): Wie sie so sanft ruhn in A♭ major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XII/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XII): Heil dir und Frieden selig geschieden in A♭ major (Beneken, Friedrich Burchard)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XIII/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XIII): Was Gott uns gegeben mit liebender Hand in E♭ major (Nikel, Emil)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XIV/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XIV): Grabgesang in E minor (Weber, Bernhard Anselm)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XV/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XV): 2 Sacred songs (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVI-1/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XVI-01): I Capuleti e i Montecchi (Bellini, Vincenzo)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVI-2/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XVI-02): Apollo-Marsch in E♭ major (Lang, Josephine)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVI-3/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XVI-03): Lied vom Rhein in E♭ major (Bönicke, Hermann)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVI-4/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XVI-04): Die Zauberharfe in C minor (Schubert, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVI-5/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XVI-05): Die Stumme von Portici (Auber, Daniel-François-Esprit)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVI-6/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XVI-06): 6 Melodien (Maresch, Paul)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVI-7/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XVI-07): Pieces in A major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVI-8/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XVI-08): Symphonies in D major (Wranitzky, Paul)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVI-9/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XVI-09): Der Wanderer in E major (Schubert, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVI-10/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XVI-10): Duets in D minor (Hellmesberger, Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVI-11/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XVI-11): Duets in A major (Hellmesberger, Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVI-12/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XVI-12): Duets in E major (Hellmesberger, Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XVII): 67 Sacred songs"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-1/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XVII-01): Litanies in C major (Schneider, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-2/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XVII-02): Masses in C major (Gleissner, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-3/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XVII-03): Stabat mater in C major (Schubert, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-4/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XVII-04): Vias tuas Domine in C major (Preindl, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-5/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XVII-05): Requiems in D major (Sechter, Simon)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-6/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XVII-06): 2 Ave regina (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-7/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XVII-07): Laudans invocabo in A major (Rotter, Ludwig)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-8/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XVII-08): Domine exaudi orationem meam in A major (Schiedermayr, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-9/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XVII-09): 2 Tantum ergo (Bibl, Andreas)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-10/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XVII-10): Asperges me in C major (Führer, Robert)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-11/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XVII-11): Libera me Domine in E♭ major (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-12/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (XVII-12): Christus am Ölberge (Beethoven, Ludwig van)"
+    }
+  ]
+}

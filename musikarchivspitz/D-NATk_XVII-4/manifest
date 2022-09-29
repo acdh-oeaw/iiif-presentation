@@ -1,0 +1,99 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-4/manifest",
+  "@type":"sc:Manifest",
+  "label":"NA/SP (XVII-04): Vias tuas Domine in C major (Preindl, Joseph)",
+  "metadata":[
+    {
+      "label":"Author",
+      "value":"Verified: Preindl, Joseph (1756-1823)"
+    },
+    {
+      "label":"Title",
+      "value":"Vias tuas Domine"
+    },
+    {
+      "label":"Key",
+      "value":"C major"
+    },
+    {
+      "label":"Note",
+      "value":"Nach zahlreichen Quellen im RISM-OPAC wurde Preindl als Komponist zugewiesen."
+    },
+    {
+      "label":"Note",
+      "value":"All other parts missing"
+    }
+  ],
+  "description":"[at the top, at left:] Arie con Choro [heading:] Tenore concertante",
+  "attribution":"Austrian Academy of Sciences; Institute for History of Art and Musicology; Division of Musicology, AG Digital Musicology. Technical support and resources provided by <a href=\"https://acdh.oeaw.ac.at/\">ÖAW-ACDH</a>.",
+  "logo":{
+    "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/logo/oeaw-logo-short.jp2/full/full/0/default.jpg"
+  },
+  "related":{
+    "@id":"https://opac.rism.info/search?id=455040542",
+    "format":"text/html"
+  },
+  "sequences":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-4/sequence/normal",
+      "@type":"sc:Sequence",
+      "canvases":[
+        {
+          "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-4/canvas/p1",
+          "@type":"sc:Canvas",
+          "label":"1",
+          "height":4056,
+          "width":2916,
+          "images":[
+            {
+              "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-4/annotation/ano1",
+              "@type":"oa:Annotation",
+              "motivation":"sc:painting",
+              "resource":{
+                "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_XVII-4/D-NATk_XVII-4-1.jp2/full/full/0/default.jpg",
+                "@type":"dctypes:Image",
+                "format":"image/jpeg",
+                "service":{
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_XVII-4/D-NATk_XVII-4-1",
+                  "profile":"http://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "height":4056,
+                "width":2916
+              },
+              "on":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-4/canvas/p1"
+            }
+          ]
+        },
+        {
+          "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-4/canvas/p2",
+          "@type":"sc:Canvas",
+          "label":"2",
+          "height":4020,
+          "width":2940,
+          "images":[
+            {
+              "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-4/annotation/ano2",
+              "@type":"oa:Annotation",
+              "motivation":"sc:painting",
+              "resource":{
+                "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_XVII-4/D-NATk_XVII-4-2.jp2/full/full/0/default.jpg",
+                "@type":"dctypes:Image",
+                "format":"image/jpeg",
+                "service":{
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_XVII-4/D-NATk_XVII-4-2",
+                  "profile":"http://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "height":4020,
+                "width":2940
+              },
+              "on":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-4/canvas/p2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/D-NATk_V",
+  "@type":"sc:Collection",
+  "label":"NA/SP: V",
+  "description":"34 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_V1/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (V-1): Resurrexit Dominus in C major (Vanhal, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_V2/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (V-2): Litanies in D major (Vanhal, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_V3/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (V-3): 3 Offertories (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_V4/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (V-4): Domine refugium factus es in F major (Vanhal, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_V5/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (V-5): Eia caeli turbae in A major (Vanhal, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_V6/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (V-6): Salve regina in A major (Vanhal, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_V7/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (V-7): Salve regina in C major (Vanhal, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_V8/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (V-8): Salve regina in G major (Vanhal, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_V9/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (V-9): Salve regina in D major (Vanhal, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_V10/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (V-10): Salve regina in G major (Vanhal, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_V11/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (V-11): Salve regina in C major (Vanhal, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_V12/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (V-12): Tantum ergo in C major (Vanhal, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_V13/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (V-13): Ad te Domine levavi in E♭ major (Veit, Václav)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_V14/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (V-14): Requiems in E♭ major (Vitásek, Jan Nepomuk August)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_V15/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (V-15): Masses in B♭ major (Vogel, Kajetán)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_V16/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (V-16): Ad laudes properate in C major (Vogel, Kajetán)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_V17/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (V-17): Angelis suis Deus in A major (Vogelsang)"
+    }
+  ]
+}

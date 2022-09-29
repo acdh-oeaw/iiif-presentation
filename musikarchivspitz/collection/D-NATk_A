@@ -1,0 +1,324 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/D-NATk_A",
+  "@type":"sc:Collection",
+  "label":"NA/SP: A",
+  "description":"126 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A1/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-1): Veni sancte spiritus in G major (Albrechtsberger, Johann Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A2/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-2): Pascha nostrum immolatus est Christus in C major (Albrechtsberger, Johann Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A3/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-3): Benedictus es Domine qui intueris abyssos in C major (Albrechtsberger, Johann Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A4/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-4): Confirma hoc Deus in C major (Albrechtsberger, Johann Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A5/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-5): Masses in F major (Albrechtsberger, Johann Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A6/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-6): Regina caeli in D major (Albrechtsberger, Johann Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A7/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-7): Requiems in C minor (Albrechtsberger, Johann Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A8/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-8): Salve regina in A major (Albrechtsberger, Johann Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A9/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-9): Alma redemptoris mater in D major (Maria, Francesco)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A10/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-10): Justus ut palma in C major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A11/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-11): Masses in C major (Schiedermayr, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A12/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-12): Oberon König der Elfen in A♭ major (Wranitzky, Paul)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A13/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-13): Tecum principium in die virtutis tuae in G major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A14/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-14): Voce mea ad Dominum clamavi in C major (Sabbatini, Luigi Antonio)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A15/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-15): 2 Graduals (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A16/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-16): 2 Vespers (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A17/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-17): Litanies in E♭ major (Lickl, Johann Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A18/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-18): 2 Litanies (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A19/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-19): Litanies in G major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A20/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-20): Libera me in E♭ major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A21/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-21): Litanies in C major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A22/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-22): Litanies in C major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A23/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-23): Litanies in C major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A24/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-24): Magnificat in C major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A25/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-25): Litanies in C major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A26/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-26): Masses in F major (Huber, Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A27/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-27): Masses in B♭ major (Eder, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A28/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-28): Masses in B♭ major (Zimmermann, Anton)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A29/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-29): Litanies in C major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A30/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-30): Masses in C major (Diabelli, Anton)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A31/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-31): Masses in C major (Heimerich, Martin)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A32/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-32): Masses in C major (Starke, Friedrich)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A33/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-33): Masses in D major (Rosenecker, Johann)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A34/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-34): Masses in D major (Preindl, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A35/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-35): Masses in D major (Pfeiffer, Franz Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A36/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-36): Masses in E♭ major (Diabelli, Anton)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A37/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-37): Masses in E♭ major (Albrechtsberger, Johann Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A38/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-38): Beatus vir in E♭ major (Jansa, Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A39/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-39): Mi salvator Jesu pie fons misericordiae in C major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A40/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-40): O Maria mater admirabilis in A major (Vanhal, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A41/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-41): Ad aram pietatis in C major (Umlauff, Ignaz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A42/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-42): Si consistant adversum in C major (Nasolini, Sebastiano)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A43/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-43): Quis ut Deus novit reus in C major (Vanhal, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A44/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-44): Passions (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A45/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-45): Der Tod Jesu (Schobacher, Paul Caspar)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A46/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-46): O Jesu mi care in C major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A47/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-47): Regina caeli in C major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A48/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-48): Requiems in G minor (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A49/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-49): Salve regina in B♭ major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A50/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-50): Litanies in E♭ major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A51/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-51): Tantum ergo in C major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A52/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-52): Tantum ergo in F major (Dreyer, Johann Melchior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A53/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-53): Tantum ergo in B♭ major (Doppelhammer, Kaspar Anton)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A54/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-54): Tantum ergo in C major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A55/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-55): Tantum ergo in C major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A56/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-56): Tantum ergo in C major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A57/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-57): Tantum ergo in D major (Schneider, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A58/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-58): 2 Tantum ergo (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A59/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-59): Tantum ergo in D major (Finkes, Dominik)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A60/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-60): Domine Dominus noster in F major (Aßmayer, Ignaz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A61/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-61): Deus venerunt gentes in B♭ major (Aßmayer, Ignaz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A62/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-62): Regina caeli in D major (Aumann, Franz Josef)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_A63/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (A-63): Salve regina in B♭ major (Aumann, Franz Josef)"
+    }
+  ]
+}

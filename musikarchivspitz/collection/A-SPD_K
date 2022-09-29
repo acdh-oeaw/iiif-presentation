@@ -1,0 +1,69 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/A-SPD_K",
+  "@type":"sc:Collection",
+  "label":"SP: K",
+  "description":"24 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_K01/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (K-1): Benedictus sit Deus in G major (Kaim, Adolf)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_K02/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (K-2): Masses in C major (Kempter, Karl)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_K03/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (K-3): Litanies in C major (Kempter, Karl)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_K04/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (K-4): Lauda Sion in B♭ major (Krenn, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_K05/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (K-5): 2 Sacred songs (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_K06/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (K-6): Tantum ergo in E major (Krenn, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_K07/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (K-7): Tantum ergo in E major (Krenn, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_K08/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (K-8): Masses (Krenn, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_K09/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (K-9): In omnem terram in C major (Kristinus, Karl Raimund)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_K10/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (K-10): Veni sancte spiritus in D major (Krottendorfer, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_K11/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (K-11): Litanies in B♭ major (Kurz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_K12/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (K-12): Litanies in E♭ major (Keinz, Joseph)"
+    }
+  ]
+}

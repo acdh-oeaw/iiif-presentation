@@ -1,0 +1,59 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/A-SPD_Z",
+  "@type":"sc:Collection",
+  "label":"SP: Z",
+  "description":"20 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_Z01/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (Z-1): 2 Alma redemptoris mater (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_Z02/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (Z-2): Ave Maria in F major (Gounod, Charles-François)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_Z03/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (Z-3): Ave Maria in B♭ major (Paradeiser, Marian)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_Z04/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (Z-4): Maria dir klag' ich all mein Leid in C major (Hönel, F.)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_Z05/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (Z-5): Maria dir klag' ich all mein Leid in G major (Hönel, F.)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_Z06/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (Z-6): Maria Himmelskönigin in F major (Elsner, Paul)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_Z07/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (Z-7): Marienlied in D major (Zwyssig, Peter Josef)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_Z08/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (Z-8): Marias Wiegenlied in G major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_Z09/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (Z-9): 4 Offertories (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_Z10/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (Z-10): Lohengrin (Wagner, Richard)"
+    }
+  ]
+}

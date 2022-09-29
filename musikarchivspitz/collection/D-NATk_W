@@ -1,0 +1,69 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/D-NATk_W",
+  "@type":"sc:Collection",
+  "label":"NA/SP: W",
+  "description":"24 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_W1/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (W-1): Asperges mes in F major (Wandl, Johann)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_W2/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (W-2): Ave Maria in B♭ major (Wandl, Johann)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_W3/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (W-3): Libera in A minor (Wandl, Johann)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_W4/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (W-4): Marienlieder (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_W5/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (W-5): Maria Maienkönigin in A major (Wandl, Johann)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_W6/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (W-6): In universa terra admirabile est nomen Domini in D minor (Wandl, Johann)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_W7/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (W-7): Requiems in E♭ major (Wandl, Johann)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_W8/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (W-8): Salve regina in G major (Weber, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_W9/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (W-9): Laudate Dominum omnes gentes in C major (Weigl, Nivard Wenzel)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_W10/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (W-10): Litanies in D major (Widerhofer, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_W11/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (W-11): Vexilla regis prodeunt in C minor (Wimmer, Ferdinand)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_W12/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (W-12): Excelsus super omnes gentes Dominus in C major (Winter, Peter von)"
+    }
+  ]
+}

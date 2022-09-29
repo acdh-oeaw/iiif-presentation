@@ -1,0 +1,274 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/D-NATk_S",
+  "@type":"sc:Collection",
+  "label":"NA/SP: S",
+  "description":"106 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S1/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-1): Litanies in C major (Sailer, Stephan)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S2/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-2): Armida (Salieri, Antonio)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S3/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-3): Armida (Salieri, Antonio)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S5/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-5): Masses in D major (Süßmayr, Franz Xaver)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S6/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-6): Excelsus super omnes gentes Dominus in C major (Salieri, Antonio)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S7/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-7): Litanies in E♭ major (Schiedermayr, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S8/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-8): Litanies in C major (Schiedermayr, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S9/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-9): Masses in G major (Schiedermayr, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S10/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-10): Vespers in C major (Schiedermayr, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S11/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-11): Litanies in A major (Schnabel, Joseph Ignaz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S12/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-12): Masses in A♭ major (Schnabel, Joseph Ignaz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S13/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-13): Vos coelorum laeti cives in G major (Schneider, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S14/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-14): Litanies in E♭ major (Schneider, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S15/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-15): Litanies in C major (Schneider, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S16/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-16): Masses in C major (Schneider, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S17/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-17): Beata gens cujus Dominus in C major (Schneider, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S18/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-18): Regina caeli in C major (Schneider, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S19/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-19): Tantum ergo in C major (Schneider, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S20/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-20): Vespers in C major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S21/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-21): Masses in C major (Schöpf, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S22/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-22): Tantum ergo in C major (Stöckli, Konrad)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S23/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-23): Tantum ergo in C major (Schreiber)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S24/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-24): 3 Sacred songs (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S25/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-25): Masses in F major (Schubert, Ferdinand)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S26/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-26): Requiems in G minor (Schubert, Ferdinand)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S27/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-27): Masses in G major (Schubert, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S28/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-28): Litanies in C major (Ivanschiz, Amandus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S29/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-29): Masses in G major (Sechter, Simon)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S30/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-30): Masses in A major (Sechter, Simon)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S32/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-32): Masses in D major (Sechter, Simon)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S33/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-33): Masses in F major (Sechter, Simon)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S37/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-37): Confitebor tibi in E minor (Seegner, Franz Gregor)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S38/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-38): Deo psallite in B♭ major (Seyfert, Johann Gottfried)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S39/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-39): Nocte surgentes in C major (Seyfried, Ignaz Ritter von)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S40/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-40): O sanctissima o piissima in A♭ major (Seyfried, Ignaz Ritter von)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S41/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-41): L' Eroe cinese (Sacchini, Antonio)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S42/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-42): Masses in D major (Škroup, Jan Nepomuk)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S47/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-47): Terra tremuit in D major (Bertoni)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S48/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-48): Ave genitrix beata in E♭ major (Spangler, Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S49/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-49): Masses in E♭ major (Spermalogi, G.)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S50/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-50): Esto mihi in Deum protectorem in C major (Spoth)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S51/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-51): 2 Graduals (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S52/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-52): O Domino Deus exaudi nos in F major (Spoth, Joseph senior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S53/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-53): Litanies in C major (Spoth, Joseph senior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S54/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-54): Salve regina in E♭ major (Spoth, Joseph senior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S55/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-55): Tantum ergo in C major (Spoth, Joseph senior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S56/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-56): Tantum ergo in B♭ major (Spoth)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S57/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-57): Masses in D major (Stadler, Maximilian)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S58/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-58): Masses in G major (Starke, Friedrich)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S59/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-59): 4 Antiphona ad processionem theophoricam (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S60/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-60): Gebet vor der Schlacht in G♭ major (Storch, Anton Maria)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S61/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-61): In tympanis atque tuba in C major (Huber, Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_S62/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (S-62): Masses in D major (Süßmayr, Franz Xaver)"
+    }
+  ]
+}

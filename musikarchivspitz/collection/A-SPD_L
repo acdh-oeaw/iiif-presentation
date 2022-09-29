@@ -1,0 +1,34 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/A-SPD_L",
+  "@type":"sc:Collection",
+  "label":"SP: L",
+  "description":"10 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_L01/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (L-1): Requiems in C major (Laucher, Joseph Anton)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_L02/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (L-2): Litanies in C major (Lickl, Johann Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_L03/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (L-3): Litanies in E♭ major (Lickl, Johann Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_L04/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (L-4): Terra tremuit in C major (Lindner, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_L05/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (L-5): Masses in C major (Lindner, Franz)"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-9/manifest",
+  "@type":"sc:Manifest",
+  "label":"NA/SP (XVII-09): 2 Tantum ergo (Bibl, Andreas)",
+  "metadata":[
+    {
+      "label":"Author",
+      "value":"Bibl, Andreas (1797-1878)"
+    },
+    {
+      "label":"Title",
+      "value":"2 Tantum ergo"
+    },
+    {
+      "label":"Note",
+      "value":"Aufgrund der wenig aussagekräftigen Stimme wurden keine Incipits angegeben."
+    },
+    {
+      "label":"Note",
+      "value":"All other parts missing"
+    }
+  ],
+  "description":"[at left:] Tantum ergo von [at right:] A. Bibl. Op. 21 [p.2, at the end:] 12. | 9. 1864",
+  "attribution":"Austrian Academy of Sciences; Institute for History of Art and Musicology; Division of Musicology, AG Digital Musicology. Technical support and resources provided by <a href=\"https://acdh.oeaw.ac.at/\">ÖAW-ACDH</a>.",
+  "logo":{
+    "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/logo/oeaw-logo-short.jp2/full/full/0/default.jpg"
+  },
+  "related":{
+    "@id":"https://opac.rism.info/search?id=455040549",
+    "format":"text/html"
+  },
+  "sequences":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-9/sequence/normal",
+      "@type":"sc:Sequence",
+      "canvases":[
+        {
+          "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-9/canvas/p1",
+          "@type":"sc:Canvas",
+          "label":"1",
+          "height":2016,
+          "width":3072,
+          "images":[
+            {
+              "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-9/annotation/ano1",
+              "@type":"oa:Annotation",
+              "motivation":"sc:painting",
+              "resource":{
+                "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_XVII-9/D-NATk_XVII-9-1.jp2/full/full/0/default.jpg",
+                "@type":"dctypes:Image",
+                "format":"image/jpeg",
+                "service":{
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_XVII-9/D-NATk_XVII-9-1",
+                  "profile":"http://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "height":2016,
+                "width":3072
+              },
+              "on":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-9/canvas/p1"
+            }
+          ]
+        },
+        {
+          "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-9/canvas/p2",
+          "@type":"sc:Canvas",
+          "label":"2",
+          "height":1991,
+          "width":3067,
+          "images":[
+            {
+              "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-9/annotation/ano2",
+              "@type":"oa:Annotation",
+              "motivation":"sc:painting",
+              "resource":{
+                "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_XVII-9/D-NATk_XVII-9-2.jp2/full/full/0/default.jpg",
+                "@type":"dctypes:Image",
+                "format":"image/jpeg",
+                "service":{
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_XVII-9/D-NATk_XVII-9-2",
+                  "profile":"http://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "height":1991,
+                "width":3067
+              },
+              "on":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_XVII-9/canvas/p2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/A-SPD_R",
+  "@type":"sc:Collection",
+  "label":"SP: R",
+  "description":"20 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_R01/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (R-1): Litanies in C major (Rampis, Pancratius)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_R02/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (R-2): Sacris solemnis in D major (Reimann, Ignaz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_R03/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (R-3): 43 Offertories (Reimann, Ignaz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_R04/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (R-4): 43 Offertories (Reimann, Ignaz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_R05/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (R-5): Lauda Sion in A major (Rieder, Ambros)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_R06/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (R-6): Beata es virgo Maria in F major (Ritter, Karl)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_R07/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (R-7): Dominus regit me in F major (Rotter, Ludwig)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_R08/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (R-8): In Deo speravit in A major (Rotter, Ludwig)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_R09/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (R-9): Masses in B♭ major (Rotter, Ludwig)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_R10/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (R-10): Masses in D minor (Rampis, Pancratius)"
+    }
+  ]
+}

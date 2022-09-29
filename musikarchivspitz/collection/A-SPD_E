@@ -1,0 +1,49 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/A-SPD_E",
+  "@type":"sc:Collection",
+  "label":"SP: E",
+  "description":"16 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_E01/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (E-1): Litanies in G major (Ebner, Leopold Ignacije)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_E02/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (E-2): Masses in F major (Edenhofer, Alois)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_E03/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (E-3): Alma redemptoris mater in G major (Eybler, Joseph Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_E04/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (E-4): Ave regina in B♭ major (Eybler, Joseph Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_E05/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (E-5): Iste est qui ante Deum in B♭ major (Eybler, Joseph Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_E06/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (E-6): Ad te levavi animam meam in B♭ major (Eybler, Joseph Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_E07/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (E-7): Terra tremuit in C major (Eybler, Joseph Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_E08/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (E-8): Veni sancte spiritus reple in B♭ major (Eybler, Joseph Leopold)"
+    }
+  ]
+}

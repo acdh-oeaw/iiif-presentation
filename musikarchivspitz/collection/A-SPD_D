@@ -1,0 +1,29 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/A-SPD_D",
+  "@type":"sc:Collection",
+  "label":"SP: D",
+  "description":"8 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_D01/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (D-1): In Deo laudabo verbum in D major (Diabelli, Anton)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_D02/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (D-2): Masses in D major (Diabelli, Anton)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_D03/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (D-3): Masses in D major (Diabelli, Anton)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_D04/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (D-4): Litanies in A minor (Drobisch, Karl Ludwig)"
+    }
+  ]
+}

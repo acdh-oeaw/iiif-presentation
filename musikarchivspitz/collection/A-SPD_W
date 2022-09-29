@@ -1,0 +1,99 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/A-SPD_W",
+  "@type":"sc:Collection",
+  "label":"SP: W",
+  "description":"36 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_W01/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (W-1): Ave regina in E♭ major (Wandl, Johann)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_W02/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (W-2): Salve regina in F major (Wandl, Johann)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_W03/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (W-3): Alma redemptoris mater in F major (Wandl, Johann)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_W04/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (W-4): Graduals in A major (Wandl, Johann)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_W05/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (W-5): Justitiae Domini in G major (Wandl, Johann)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_W06/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (W-6): 3 Offertories (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_W07/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (W-7): Tantum ergo in C major (Wandl, Johann)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_W08/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (W-8): Tantum ergo in A major (Wandl, Johann)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_W09/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (W-9): 4 Tantum ergo (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_W10/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (W-10): Libera in A minor (Wandl, Johann)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_W11/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (W-11): Litanies in C major (Wandl, Johann)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_W12/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (W-12): Ad Dominum clamavi in A♭ major (Weiss, Laurenz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_W13/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (W-13): Ave Maria in C major (Weiss, Laurenz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_W14/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (W-14): Litanies in C major (Widerhofer, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_W15/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (W-15): Litanies in D major (Widerhofer, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_W16/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (W-16): Masses in C major (Widerhofer, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_W17/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (W-17): Missa pro defunctis in F major (Witt, Franz Xaver)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_W18/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (W-18): Masses in B♭ major (Witt, Franz Xaver)"
+    }
+  ]
+}

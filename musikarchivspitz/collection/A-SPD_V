@@ -1,0 +1,29 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/A-SPD_V",
+  "@type":"sc:Collection",
+  "label":"SP: V",
+  "description":"8 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_V01/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (V-1): 2 Salve regina (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_V02/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (V-2): Laudabo Dominum in F major (Vanhal, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_V03/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (V-3): Masses in D major (Veit, Václav)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_V04/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (V-4): Masses in C major (Vitásek, Jan Nepomuk August)"
+    }
+  ]
+}

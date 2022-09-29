@@ -1,0 +1,64 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/D-NATk_G",
+  "@type":"sc:Collection",
+  "label":"NA/SP: G",
+  "description":"22 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_G1/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (G-1): Litanies in C major (Gänsbacher, Johann)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_G2/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (G-2): Requiems in E♭ major (Gänsbacher, Johann)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_G3/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (G-3): Fremant venti et procellae in D major (Gassmann, Florian Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_G4/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (G-4): 2 Tantum ergo (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_G5/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (G-5): Tantum ergo in G major (Gegenbauer, Franz Xaver)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_G6/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (G-6): 2 Alma redemptoris mater (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_G7/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (G-7): Alma redemptoris mater in C major (Graff, Franz Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_G8/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (G-8): Masses in F major (Groll, Evermodus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_G9/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (G-9): Masses in D major (Groll, Evermodus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_G10/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (G-10): 2 Ave regina (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_G11/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (G-11): Te Deum in D major (Gyrowetz, Adalbert)"
+    }
+  ]
+}

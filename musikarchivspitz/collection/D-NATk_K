@@ -1,0 +1,169 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/D-NATk_K",
+  "@type":"sc:Collection",
+  "label":"NA/SP: K",
+  "description":"64 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K1/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-1): Cantate Dominum canticum novum in E♭ major (Katzer, Hynek)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K2/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-2): Litanies in C major (Kempter, Karl)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K3/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-3): Masses in D major (Kempter, Karl)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K4/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-4): Oratorium für den heiligen Charfreitag (Kempter, Karl)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K5/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-5): Masses in C major (Kernle, Antonín)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K6/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-6): Masses in E♭ major (Kirms, Karl Ferdinand)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K7/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-7): Masses in F major (Kirms, Karl Ferdinand)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K8/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-8): Masses in F major (Kirms, Karl Ferdinand)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K9/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-9): Tantum ergo in E♭ major (Kloß, Josef Ferdinand)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K10/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-10): Litanies in A major (Kobrich, Johann Anton)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K11/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-11): 2 Litanies (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K12/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-12): Litanies in C major (Vanhal, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K13/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-13): Locus iste in C major (Kracher, Joseph Matthias)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K14/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-14): Masses in G major (Kranz, Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K15/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-15): Requiems in E♭ major (Krebs, Josef)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K16/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-16): Ave Maria in B♭ major (Krenn, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K17/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-17): Masses in A major (Krenn, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K18/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-18): Te Deum in C major (Krenn, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K19/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-19): Exsultate justi in Domino in G major (Kreutzer, Conradin)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K20/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-20): Domine Dominus noster in B♭ major (Kreutzer, Conradin)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K21/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-21): Dirige me in veritate tua in A major (Kreutzer, Conradin)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K22/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-22): Cantemus Domini in C major (Kreutzer, Conradin)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K23/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-23): Te Deum in C major (Kriechbaum)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K24/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-24): Herzeleid in A major (Kristinus, Karl Raimund)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K25/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-25): 2 Ave regina caelorum (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K26/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-26): Ave regina caelorum in D major (Krottendorfer, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K27/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-27): Regina caeli in E♭ major (Krottendorfer, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K28/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-28): Salve regina in C major (Krottendorfer, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K29/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-29): Salve regina in E♭ major (Krottendorfer, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K30/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-30): Te Deum in D major (Krottendorfer, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K31/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-31): Te Deum in D major (Krottendorfer, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_K32/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (K-32): 2 Sacred songs (Collection)"
+    }
+  ]
+}

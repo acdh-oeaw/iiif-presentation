@@ -1,0 +1,119 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/A-SPD_S",
+  "@type":"sc:Collection",
+  "label":"SP: S",
+  "description":"44 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_S01/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (S-1): Audite vocem magnam in C major (Salieri, Antonio)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_S02/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (S-2): 2 Sacred songs (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_S03/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (S-3): Litanies in C major (Schiedermayr, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_S04/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (S-4): Litanies in D major (Schiedermayr, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_S05/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (S-5): Litanies in F major (Schiedermayr, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_S06/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (S-6): Litanies in B♭ major (Schiedermayr, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_S07/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (S-7): Masses in C major (Schiedermayr, Johann Baptist)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_S08/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (S-8): Universi qui te exspectant in E major (Schnabel, Joseph Ignaz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_S09/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (S-9): Litanei zu Ehren des Heiligen Johann von Nepomuk (Schnabel, Joseph Ignaz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_S10/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (S-10): 3 Litanies (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_S11/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (S-11): Litanies in C major (Schneider, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_S12/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (S-12): Litanies in C major (Schneider, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_S13/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (S-13): Salve regina in A major (Schreiber)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_S14/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (S-14): Ave maris stella in A major (Seyfried, Ignaz Ritter von)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_S15/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (S-15): Libera me in D minor (Seyfried, Ignaz Ritter von)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_S16/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (S-16): 2 Offertories (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_S17/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (S-17): Ingrata anima in F major (Spoth, Joseph senior)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_S18/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (S-18): Domine Deus in simplicitate in D major (Stehle, Johann Gustav Eduard)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_S19/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (S-19): Gedenk o Mutter in A♭ major (Singer, Peter)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_S20/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (S-20): Libera me in D minor (Stadler, Maximilian)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_S21/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (S-21): Masses (Schubert, Franz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_S22/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (S-22): Veni sancte spiritus in C major (Stradl, Felix)"
+    }
+  ]
+}

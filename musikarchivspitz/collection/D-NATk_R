@@ -1,0 +1,119 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/D-NATk_R",
+  "@type":"sc:Collection",
+  "label":"NA/SP: R",
+  "description":"44 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R1/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (R-1): Dominus dixit in C major (Raab, Franz de Paula)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R2/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (R-2): Vias tuas Domine in G major (Reindl, Benedikt)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R3/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (R-3): Tantum ergo in C major (Reisser, Vinzenz)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R4/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (R-4): Masses in E♭ major (Reissiger, Carl Gottlieb)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R5/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (R-5): Plaudite gentes in C major (Richter)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R6/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (R-6): In tuo nomine in E♭ major (Rieder, Ambros)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R7/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (R-7): Requiems in D minor (Rieder, Ambros)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R8/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (R-8): Symphonies in D major (Beethoven, Ludwig van)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R9/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (R-9): O patrone pater pie in G major (Ristl, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R10/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (R-10): Masses in D minor (Righini, Vincenzo)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R11/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (R-11): Masses in C major (Rosenecker, Johann)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R12/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (R-12): Masses in B♭ major (Roser, Franz de Paula)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R13/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (R-13): In Deo speravit in A major (Rotter, Ludwig)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R14/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (R-14): Masses in C major (Rotter, Ludwig)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R15/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (R-15): Masses in D major (Rotter, Ludwig)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R16/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (R-16): Masses in B♭ major (Rotter, Ludwig)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R17/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (R-17): Masses in F major (Rotter, Ludwig)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R18/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (R-18): Masses in G major (Rotter, Ludwig)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R19/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (R-19): Masses in C major (Rotter, Ludwig)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R20/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (R-20): Ave maris stella in F major (Rotter, Ludwig)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R21/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (R-21): Te Deum in C major (Rotter, Ludwig)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_R22/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (R-22): Veni sancte spiritus in B♭ major (Rotter, Ludwig)"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/A-SPD_N",
+  "@type":"sc:Collection",
+  "label":"SP: N",
+  "description":"2 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_N01/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (N-1): Es kommt die sel'ge Stunde in D major (Nunzer, Karl)"
+    }
+  ]
+}

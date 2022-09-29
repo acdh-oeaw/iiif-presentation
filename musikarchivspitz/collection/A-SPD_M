@@ -1,0 +1,79 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/A-SPD_M",
+  "@type":"sc:Collection",
+  "label":"SP: M",
+  "description":"28 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_M01/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (M-1): Masses in C major (Mitterer, Ignaz Martin)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_M02/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (M-2): 5 Offertories (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_M03/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (M-3): Masses in G major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_M04/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (M-4): Masses in C major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_M05/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (M-5): Litanies in B♭ major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_M06/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (M-6): Litanies in B♭ major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_M07/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (M-7): Litanies in B♭ major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_M08/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (M-8): Litanies in D major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_M09/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (M-9): Sancta Maria mater Dei in F major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_M10/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (M-10): O Salvator tuae gentis in F major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_M11/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (M-11): La Clemenza di Tito (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_M12/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (M-12): Salve regina in D major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_M13/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (M-13): Salve regina in E♭ major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_M14/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (M-14): Requiems (Mozart, Wolfgang Amadeus)"
+    }
+  ]
+}

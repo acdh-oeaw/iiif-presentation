@@ -1,0 +1,144 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/A-SPD_H",
+  "@type":"sc:Collection",
+  "label":"SP: H",
+  "description":"54 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H01/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-1): Litanies in G major (Habert, Johannes Evangelista)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H02/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-2): Masses in C major (Hahn, Bernhard)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H03/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-3): Die Sieben Letzten Worte unseres Erlösers am Kreuze (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H04/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-4): 2 Alma redemptoris mater (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H05/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-5): Il Ritorno di Tobia (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H06/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-6): Die Schöpfung (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H07/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-7): Masses in C major (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H08/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-8): 2 Alma redemptoris mater (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H09/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-9): Salve regina in D major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H10/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-10): Exsultet orbis gaudiis in B♭ major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H11/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-11): Tollite portas in D major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H12/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-12): 2 Offertories (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H13/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-13): Tecum principium in die virtutis tuae in G major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H14/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-14): Offertories in C major (Anonymus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H15/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-15): Bonum est confiteri in A major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H16/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-16): Ecce quam bonum in B♭ major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H17/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-17): Inveni David in G major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H18/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-18): Tres sunt qui testimonium dant in caelo in C major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H19/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-19): Litanies in B♭ major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H20/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-20): Tantum ergo in G major (Haydn, Michael)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H21/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-21): Ave Maria in A major (Hellmesberger, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H22/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-22): Salve regina in F major (Helm)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H23/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-23): Litanies in C major (Hofmann, Leopold)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H24/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-24): Tantum ergo in C major (Huber, Georg)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H25/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-25): Die Sieben Letzten Worte unseres Erlösers am Kreuze (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H26/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-26): Salve regina (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_H27/manifest",
+      "@type":"sc:Manifest",
+      "label":"SP (H-27): Ave Maria in C major (Hegenbart, Franz)"
+    }
+  ]
+}

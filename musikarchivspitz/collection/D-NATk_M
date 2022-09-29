@@ -1,0 +1,179 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/collection/D-NATk_M",
+  "@type":"sc:Collection",
+  "label":"NA/SP: M",
+  "description":"68 items.",
+  "manifests":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M1/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-1): In Deo speravit in A major (Haydn, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M2/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-2): Requiems in E♭ major (Mathis, Alois P.)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M3/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-3): Requiems in F major (Mathis, Alois P.)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M4/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-4): Requiems in F major (Mathis, Alois P.)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M5/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-5): Masses in A♭ major (Méhul, Etienne-Nicolas)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M6/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-6): Masses in C major (Mitterer, Ignaz Martin)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M7/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-7): 2 Sacred songs (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M8/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-8): Masses in C major (Preindl, Joseph)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M9/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-9): Masses in C major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M10/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-10): Masses in C major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M11/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-11): Thamos König in Ägypten (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M12/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-12): Laudate Dominum in F major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M13/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-13): Masses in D major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M14/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-14): Masses in F major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M15/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-15): Masses in C major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M16/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-16): Masses in B♭ major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M17/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-17): Masses in C major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M18/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-18): Masses in C major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M19/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-19): Masses in C major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M20/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-20): Masses in C major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M21/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-21): Masses in C major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M22/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-22): Plausus caeli in C major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M23/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-23): La Clemenza di Tito (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M24/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-24): O Salvator tuae gentis in F major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M25/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-25): Regina caeli in C major (Mozart, Wolfgang Amadeus)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M26/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-26): 2 Partsongs (Collection)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M27/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-27): Das Wappenzeichen in A major (Enckhausen, Heinrich Friedrich)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M28/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-28): Litanies in C major (Müller, Donat)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M29/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-29): Tantum ergo in B♭ major (Müller, Josef)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M30/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-30): Protector Deus noster in E♭ major (Müller, Wenzel)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M31/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-31): Domine exaudi me in B♭ major (Müller, Wenzel)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M32/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-32): Masses in E♭ major (Müller, Wenzel)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M33/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-33): Masses in E♭ major (Müller, Wenzel)"
+    },
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_M34/manifest",
+      "@type":"sc:Manifest",
+      "label":"NA/SP (M-34): Clamantem me tu Domine in G major (Müller, Wenzel)"
+    }
+  ]
+}

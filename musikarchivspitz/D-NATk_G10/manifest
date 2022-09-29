@@ -1,0 +1,169 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_G10/manifest",
+  "@type":"sc:Manifest",
+  "label":"NA/SP (G-10): 2 Ave regina (Collection)",
+  "metadata":[
+    {
+      "label":"(1) Author",
+      "value":"Verified: Grueber, Benno (1759-1796)"
+    },
+    {
+      "label":"(1) Title",
+      "value":"Ave regina"
+    },
+    {
+      "label":"(1) Key",
+      "value":"C major"
+    },
+    {
+      "label":"(2) Author",
+      "value":"Verified: Grueber, Benno (1759-1796)"
+    },
+    {
+      "label":"(2) Title",
+      "value":"Ave regina"
+    },
+    {
+      "label":"(2) Key",
+      "value":"B♭ major"
+    },
+    {
+      "label":"Note",
+      "value":"Im vorderen Innendeckel 23 Aufführungsdaten von 1843 bis 1859 aufgelistet."
+    },
+    {
+      "label":"Note",
+      "value":"Von dem Wasserzeichen ist nur das \"I.B.\" vorhanden, siehe für Abbildungen andere Handschriften in demselben Bestand."
+    },
+    {
+      "label":"Note",
+      "value":"Unter der Signatur NA/SP (XVII-06) befinden sich mit dem Ave regina Nr. 3 und 4 weitere aus den \"XXIV Antiphonae marianae\" von Benno Gruber, Augsburg 1793 (²1806)."
+    }
+  ],
+  "description":"[dust cover title:] 2 Ave in C. et B. | a | 4 Vocib: | 2 Violini, | Viola |  2 Corni | con | Organo et Violone. | [at left:] Gruber. [at right:] Kirche Spitz.",
+  "attribution":"Austrian Academy of Sciences; Institute for History of Art and Musicology; Division of Musicology, AG Digital Musicology. Technical support and resources provided by <a href=\"https://acdh.oeaw.ac.at/\">ÖAW-ACDH</a>.",
+  "logo":{
+    "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/logo/oeaw-logo-short.jp2/full/full/0/default.jpg"
+  },
+  "related":{
+    "@id":"https://opac.rism.info/search?id=455039912",
+    "format":"text/html"
+  },
+  "sequences":[
+    {
+      "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_G10/sequence/normal",
+      "@type":"sc:Sequence",
+      "canvases":[
+        {
+          "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_G10/canvas/p1",
+          "@type":"sc:Canvas",
+          "label":"1",
+          "height":4543,
+          "width":3105,
+          "images":[
+            {
+              "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_G10/annotation/ano1",
+              "@type":"oa:Annotation",
+              "motivation":"sc:painting",
+              "resource":{
+                "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_G10/D-NATk_G10-001.jp2/full/full/0/default.jpg",
+                "@type":"dctypes:Image",
+                "format":"image/jpeg",
+                "service":{
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_G10/D-NATk_G10-001.jp2",
+                  "profile":"http://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "height":4543,
+                "width":3105
+              },
+              "on":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_G10/canvas/p1"
+            }
+          ]
+        },
+        {
+          "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_G10/canvas/p2",
+          "@type":"sc:Canvas",
+          "label":"2",
+          "height":4575,
+          "width":3104,
+          "images":[
+            {
+              "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_G10/annotation/ano2",
+              "@type":"oa:Annotation",
+              "motivation":"sc:painting",
+              "resource":{
+                "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_G10/D-NATk_G10-002.jp2/full/full/0/default.jpg",
+                "@type":"dctypes:Image",
+                "format":"image/jpeg",
+                "service":{
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_G10/D-NATk_G10-002.jp2",
+                  "profile":"http://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "height":4575,
+                "width":3104
+              },
+              "on":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_G10/canvas/p2"
+            }
+          ]
+        },
+        {
+          "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_G10/canvas/p3",
+          "@type":"sc:Canvas",
+          "label":"3",
+          "height":4152,
+          "width":2840,
+          "images":[
+            {
+              "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_G10/annotation/ano3",
+              "@type":"oa:Annotation",
+              "motivation":"sc:painting",
+              "resource":{
+                "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_G10/D-NATk_G10-003.jp2/full/full/0/default.jpg",
+                "@type":"dctypes:Image",
+                "format":"image/jpeg",
+                "service":{
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_G10/D-NATk_G10-003.jp2",
+                  "profile":"http://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "height":4152,
+                "width":2840
+              },
+              "on":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_G10/canvas/p3"
+            }
+          ]
+        },
+        {
+          "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_G10/canvas/p4",
+          "@type":"sc:Canvas",
+          "label":"4",
+          "height":4136,
+          "width":2820,
+          "images":[
+            {
+              "@id":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_G10/annotation/ano4",
+              "@type":"oa:Annotation",
+              "motivation":"sc:painting",
+              "resource":{
+                "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_G10/D-NATk_G10-004.jp2/full/full/0/default.jpg",
+                "@type":"dctypes:Image",
+                "format":"image/jpeg",
+                "service":{
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://iiif.acdh-dev.oeaw.ac.at/iiif/images/musikarchivspitz/D-NATk_G10/D-NATk_G10-004.jp2",
+                  "profile":"http://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "height":4136,
+                "width":2820
+              },
+              "on":"https://iiifpresentation.acdh.oeaw.ac.at/musikarchivspitz/D-NATk_G10/canvas/p4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
